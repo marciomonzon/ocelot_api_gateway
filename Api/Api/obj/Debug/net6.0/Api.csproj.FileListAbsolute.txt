@@ -25,3 +25,12 @@ D:\projetos\ocelot_api_gateway\Api\Api\obj\Debug\net6.0\refint\Api.dll
 D:\projetos\ocelot_api_gateway\Api\Api\obj\Debug\net6.0\Api.pdb
 D:\projetos\ocelot_api_gateway\Api\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
 D:\projetos\ocelot_api_gateway\Api\Api\obj\Debug\net6.0\ref\Api.dll
+D:\projetos\ocelot_api_gateway\Api\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\projetos\ocelot_api_gateway\Api\Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\projetos\ocelot_api_gateway\Api\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\projetos\ocelot_api_gateway\Api\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\projetos\ocelot_api_gateway\Api\Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\projetos\ocelot_api_gateway\Api\Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\projetos\ocelot_api_gateway\Api\Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\projetos\ocelot_api_gateway\Api\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\projetos\ocelot_api_gateway\Api\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
